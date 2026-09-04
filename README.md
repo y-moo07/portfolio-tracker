@@ -8,4 +8,5 @@ Demonstrates: object-oriented programming, encapsulation, vectors of
 objects, parallel vector iteration, and aggregate financial calculations.
 
 To compile: clang++ portfolio_tracker.cpp -o portfolio_tracker
+
 To run: ./portfolio_tracker
